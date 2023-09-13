@@ -1,0 +1,26 @@
+Mass properties of Part1
+Configuration: Default
+Coordinate system: -- default --
+Density = 0.04 pounds per cubic inch
+Mass = 0.03 pounds
+Volume = 0.92 cubic inches
+Surface area = 11.64 square inches
+Center of mass: ( inches )
+X = 0.00
+Y = 0.00
+Z = 0.13
+Principal axes of inertia and principal moments of inertia: ( pounds * square inches )
+Taken at the center of mass.
+Ix = ( 1.00, 0.00, 0.00) Px = 0.01
+Iy = ( 0.00, 1.00, 0.00) Py = 0.01
+Iz = ( 0.00, 0.00, 1.00) Pz = 0.02
+Moments of inertia: ( pounds * square inches )
+Taken at the center of mass and aligned with the output coordinate system.
+Lxx = 0.01Lxy = 0.00Lxz = 0.00
+Lyx = 0.00 Lyy = 0.01 Lyz = 0.00
+Lzx = 0.00Lzy = 0.00Lzz = 0.02
+Moments of inertia: ( pounds * square inches )
+Taken at the output coordinate system.
+Ixx = 0.01 Ixy = 0.00 Ixz = 0.00
+Iyx = 0.00 Iyy = 0.01 Iyz = 0.00
+Izx = 0.00 Izy = 0.00 Izz = 0.02
