@@ -1,4 +1,4 @@
-# Thanh_RMIT_Work_Gcode_Ladder
+# Thanh_Work_Gcode_LadderLogic
 First of all, this work is related to mechatronics and robotics, especially in CNC and PLC programming.
 These files were mainly written in G-code. Other languages are included such as Ladder Diagram, Python.
 This is my work as an engineering student at RMIT University Vietnam. Some of my works may contain codes from my studied courses and online sources.
