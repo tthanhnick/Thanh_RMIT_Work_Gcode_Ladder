@@ -1,4 +1,4 @@
-# Thanh_Work_CAD-CAM-CNC
+# Thanh_Work_CAD-CAM-CNC_RMIT
 First of all, this work is related to mechanical and mechatronics, especially in CAD/CAM and CNC programming.
 I mainly used Solidworks and SOlidworks CAM for the CAD/CAM work. 
 This is my work as an engineering student at RMIT University Vietnam. Some of my works may contain codes from my studied courses and online sources.
